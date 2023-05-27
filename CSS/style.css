@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+  background-color: #d7f9d7;
+  }
+
+  h1 h3{
+    padding: 20px;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 10px;
+    text-align: center;
+    background-color: #e8f7e8;
+  }
+
+  .col{
+    padding: 10px;
+  }
+
+  p{
+    vertical-align: middle;
+  }
+
+  input{
+    vertical-align: middle;
+  }
+
+  ol {
+    display: none;
+  }
