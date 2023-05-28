@@ -58,5 +58,6 @@ function checkAnswers() {
             inputList.style.borderStyle = 'solid';
         }
     }
-    document.getElementById("hiddenContent").style.display = 'block'
+    document.getElementById("hiddenContent").style.display = 'flex'
+
   }

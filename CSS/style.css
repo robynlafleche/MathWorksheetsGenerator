@@ -32,4 +32,9 @@ body {
 
   ol {
     display: none;
+    flex-wrap: wrap;
+  }
+
+  ol li {
+    margin: 0 20px;
   }
